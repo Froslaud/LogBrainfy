@@ -11,5 +11,5 @@ Upon receiving your request, we will process the account deletion in accordance 
 Please note:
 
 - Data stored locally on your device can also be removed by uninstalling the application or deleting content manually.
-- Synchronization data (if applicable) will be removed from our servers after account deletion.
+- Synchronization data will be removed from our servers after account deletion.
 - The deletion process is irreversible.
