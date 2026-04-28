@@ -4,85 +4,132 @@
 
 ## Introduction
 
-Welcome to LogBrainfy. We are committed to protecting your privacy and the data you generate. This policy explains what information we collect, how we use it, and how we protect it.
+Welcome to LogBrainfy. We are committed to protecting your privacy and handling your data in a transparent and secure manner.
+
+This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
+
+---
 
 ## Information We Collect
 
-At LogBrainfy, we collect the following types of data:
+We collect only the information necessary to provide and improve our services.
 
-### 🔹 Basic User Data
+### 🔹 Account Information
 
-We may collect information provided by the user through their Google account when registering for the app, such as:
+When you sign in (e.g., using Google), we may collect:
 
 - Name or username  
 - Email address  
 - Device identifier  
-- In-app settings preferences  
+- Basic account preferences  
 
-You may also be asked for your date of birth and location.
+You may also optionally provide:
 
-This data is used solely to:
+- Date of birth  
+- Location  
 
-- Identify the user within the app  
-- Synchronize data (if applicable)  
-- Improve the user experience  
+---
 
-### 🔹 User-Generated Data
+### 🔹 User-Generated Content
 
-The app stores user-created data, such as:
+We collect and store the data you create within the app, including:
 
 - Notes  
 - Tasks  
 - Projects  
 - Habits  
-- Work areas  
 - Lists  
+- Workspaces  
 
-This data is stored to:
+This data is essential for the functionality of the app.
 
-- Allow the user to manage their information  
-- Provide access to their data at any time  
-- Maintain app functionality  
+---
 
-## Usage of Data
+## How We Use Your Information
 
-The data collected is used exclusively for:
+We use your data exclusively to:
 
-- Providing application functionalities  
-- Improving the user experience  
-- Synchronization  
-- Interface customization  
+- Provide core app functionality  
+- Sync your data across devices (if enabled)  
+- Improve user experience  
+- Personalize the interface  
 
-We do not sell or share data with third parties for commercial purposes.
+We **do not sell, rent, or share your personal data** with third parties for marketing purposes.
 
-## Data Storage
+---
 
-Data may be stored:
+## Tracking and Advertising
 
-- Locally on the user's device  
-- On the cloud service :contentReference[oaicite:0]{index=0}  
+We respect your privacy:
 
-In the case of synchronization, data is transmitted securely using encryption protocols.
+- We **do not use your personal data for tracking or advertising purposes without your explicit consent**.  
+- We do not collect behavioral data for third-party advertising.
 
-## Data Security
+---
 
-We take reasonable measures to protect user information. However, security also depends on the user's device and settings.
+## Data Storage and Security
 
-## Information Sharing
+Your data may be stored:
 
-We do not share personal data with third parties unless required by law or with the user's consent.
+- Locally on your device  
+- On secure cloud services (e.g., Firebase) for synchronization  
 
-## User Rights
+We use industry-standard security measures to protect your data. However, no method of transmission or storage is completely secure.
 
-Users can:
+---
 
-- Access their data  
-- Modify their data  
-- Delete their data  
-- Request information about the processing of their data  
+## Data Sharing
 
-To exercise these rights, you can contact us at: froslaud@gmail.com
+We do not share your personal data with third parties, except:
+
+- When required by law  
+- To comply with legal obligations  
+
+---
+
+## Your Rights
+
+You have the right to:
+
+- Access your data  
+- Modify your data  
+- Delete your data  
+- Request information about how your data is processed  
+
+To exercise these rights, contact us at:  
+**froslaud@gmail.com**
+
+---
+
+## Data Retention
+
+We retain your data only for as long as necessary to provide the app’s functionality.  
+You can request deletion of your data at any time.
+
+---
+
+## Children’s Privacy
+
+LogBrainfy is not intended for children under the age of 13.  
+We do not knowingly collect personal data from children.
+
+---
 
 ## Changes to This Policy
 
-We may update this policy at any time. Modifications will be published in the application and will take effect upon publication.
+We may update this Privacy Policy from time to time.  
+Any changes will be posted within the app and will take effect upon publication.
+
+---
+
+## Contact
+
+If you have any questions about this Privacy Policy, you can contact us at:  
+**froslaud@gmail.com**
+
+---
+
+## Terms of Use
+
+For the Terms of Use, please visit:  
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
