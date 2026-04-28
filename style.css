@@ -14,7 +14,7 @@ body {
     line-height: 1.5;
 }
 
-/* Navigation */
+/* --- NAVIGATION (Shared) --- */
 nav {
     padding: 20px;
     background: rgba(255, 255, 255, 0.8);
@@ -30,6 +30,7 @@ nav {
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .logo-text {
@@ -44,14 +45,14 @@ nav {
     margin-left: 20px;
 }
 
-/* Hero Section */
+/* --- HOME PAGE STYLES (index.html) --- */
 .hero {
     text-align: center;
     padding: 80px 20px;
     background: radial-gradient(circle at bottom, #f0f7ff 0%, #ffffff 100%);
 }
 
-h1 { font-size: 3rem; letter-spacing: -0.02em; }
+.hero h1 { font-size: 3rem; letter-spacing: -0.02em; }
 
 .subtitle {
     font-size: 1.3rem;
@@ -82,7 +83,6 @@ h1 { font-size: 3rem; letter-spacing: -0.02em; }
     color: #aaa;
 }
 
-/* Cards & Content */
 .content { max-width: 1000px; margin: 0 auto; padding: 40px 20px; }
 
 .legal-grid {
@@ -105,19 +105,87 @@ h1 { font-size: 3rem; letter-spacing: -0.02em; }
     margin-top: 10px;
 }
 
-/* Legal Page specific */
-.legal-content {
-    max-width: 700px;
-    margin: 40px auto;
-    padding: 20px;
+/* --- PRIVACY PAGE PREMIUM STYLES (privacy.html) --- */
+.legal-wrapper {
+    max-width: 740px;
+    margin: 60px auto;
+    padding: 0 20px;
 }
 
-.legal-content h2 { margin-top: 40px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
-.legal-content h3 { color: var(--primary); margin-top: 25px; }
+.legal-header h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
 
+.effective-date {
+    color: var(--gray);
+    font-size: 1.1rem;
+}
+
+.header-line {
+    width: 60px;
+    height: 4px;
+    background: var(--primary);
+    margin-top: 25px;
+    border-radius: 2px;
+}
+
+.intro-text {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    color: #424245;
+    margin: 40px 0;
+}
+
+.legal-section { margin-bottom: 50px; }
+.legal-section h2 { font-size: 1.8rem; margin-bottom: 20px; font-weight: 600; }
+
+.info-card {
+    background: var(--secondary-bg);
+    padding: 25px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+.highlight-box {
+    font-weight: 600;
+    color: var(--primary);
+    font-size: 1.1rem;
+}
+
+.contact-box {
+    display: block;
+    background: var(--secondary-bg);
+    padding: 20px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: var(--text);
+    border-left: 4px solid var(--primary);
+}
+
+.contact-box span {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--gray);
+    margin-top: 5px;
+}
+
+.eula-link {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* --- FOOTER (Shared) --- */
 footer {
     text-align: center;
     padding: 60px;
     color: var(--gray);
     font-size: 0.9rem;
+    border-top: 1px solid #f2f2f2;
 }
+
+/* List styling for Privacy */
+ul { margin-bottom: 20px; }
+li { margin-bottom: 10px; }
